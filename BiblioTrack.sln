@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTrack", "BiblioTrack.csproj", "{F3224A18-4A8B-490A-8BD5-3849A6064A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3224A18-4A8B-490A-8BD5-3849A6064A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3224A18-4A8B-490A-8BD5-3849A6064A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3224A18-4A8B-490A-8BD5-3849A6064A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3224A18-4A8B-490A-8BD5-3849A6064A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEFB950-65DB-42F4-9EE9-F617317CFC05}
+	EndGlobalSection
+EndGlobal
