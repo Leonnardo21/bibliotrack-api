@@ -25,6 +25,9 @@ namespace BiblioTrack.Data.Mapping
 
             builder.Property(x => x.ISBN)
                 .IsRequired();
+
+            builder.Property(x => x.IsDisponibility)
+                .IsRequired();
         }
     }
 }
